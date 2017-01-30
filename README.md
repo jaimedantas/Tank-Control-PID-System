@@ -9,11 +9,11 @@ The software TC Control is able to implements almost all types of the classical 
 ![](https://github.com/jaimedantas/Tank-Control-PID-System/blob/master/images_git/main.png)
 
 The user can choose to control the industrial plant with:
-###PID  Controlller
-###PI-D Controller
-###PI   Controller
-###PD   Controller
-###P    Controller
+* PID  Controlller
+* PI-D Controller
+* PI   Controller
+* PD   Controller
+* P    Controller
 
 There is a window for enter the paraments of the controller. Also, the operator has the option of running the plant with a sinus, quadratic, saw, step or random wave for de the process variable. In addition, you can control several outputs (tanks) indepedently or in the master-slave configutaion.
 
