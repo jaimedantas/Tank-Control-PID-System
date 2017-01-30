@@ -1,5 +1,5 @@
 #Control System for Quanser Tanks
-This is a project developed by Jaime Dantas and Alexandre Dantas which consists of an PID controller for the Quanser water tanks. Although the software was built to work with the Quanser Coupled Water Tanks, it can easily controll any kind of liquid tanks by changing the specs in the control code.
+This is a project developed by Jaime Dantas and Alexandre Luz which consists of an PID controller for the Quanser water tanks. Although the software was built to work with the Quanser Coupled Water Tanks, it can easily controll any kind of liquid tanks by changing the specs in the control code.
 
 ![](https://github.com/jaimedantas/Tank-Control-PID-System/blob/master/images_git/tank.png)
 
