@@ -8,7 +8,7 @@ The software TC Control is able to implements almost all types of the classical 
 
 ![](https://github.com/jaimedantas/Tank-Control-PID-System/blob/master/images_git/main.png)
 
-The user can choose to control the industrial plant with:
+The user can choose to control the industrial plant with the following controllers:
 * PID  Controlller
 * PI-D Controller
 * PI   Controller
